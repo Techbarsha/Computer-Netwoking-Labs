@@ -1,5 +1,5 @@
 # Computer-Netwoking-Labs
-
+```
 1. How can you perform a port scan using Python?
 2. Use the ipconfig /all command on a Windows machine to display detailed information about all network 
 interfaces, including their MAC addresses.
@@ -30,3 +30,4 @@ sockets.
 18. Write a C /Python to implement CRC.
 19.Write a C /Python program using stream oriented server using TCP port no. 3456.
 20. Write a C /Python program using stream oriented clint using TCP port no. 3456
+``
