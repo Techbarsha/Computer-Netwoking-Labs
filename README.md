@@ -8,7 +8,7 @@ addresses of devices on the local network.
 4. Use the ping command to test connectivity between two devices on a local network by specifying their IP 
 addresses. Interpret the output to identify any packet loss or latency issues.
 5. Use netstat -e command to show statistics about your network connection
-6. . Use the ping command to test connectivity between two devices on a local network by specifying their 
+6.Use the ping command to test connectivity between two devices on a local network by specifying their 
 IP addresses. Interpret the output to identify any packet loss or latency issues.
 7. Use the ping command with the -t option to continuously ping a remote host and observe the response 
 times.
@@ -30,4 +30,4 @@ sockets.
 18. Write a C /Python to implement CRC.
 19.Write a C /Python program using stream oriented server using TCP port no. 3456.
 20. Write a C /Python program using stream oriented clint using TCP port no. 3456
-``
+```
